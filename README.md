@@ -1,6 +1,6 @@
 # Songs for the Trumpocalypse
 
-![If Ivanka weren't my daughter, perhaps I'd be dating her.](http://i.imgur.com/KNcckAC.png)
+[![If Ivanka weren't my daughter, perhaps I'd be dating her.](http://i.imgur.com/KNcckAC.png)](http://i.imgur.com/KNcckAC.png)
 
 A major, super classy book that's going to MAKE POETRY GREAT AGAIN, computationally generated from genuine Donald Trump quotations with a [recurrent neural network](https://github.com/rossgoodwin/neuralsnap). Created for the [2016 Stupid Shit No One Needs and Terrible Ideas Hackathon](http://www.stupidhackathon.com).
 
